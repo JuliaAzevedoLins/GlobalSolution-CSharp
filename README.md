@@ -6,6 +6,12 @@
  - Luis Gustavo Barreto Garrido - RM99210
  - Victor Hugo Aranda Forte - RM99667
 
+---
+🔗 https://www.youtube.com/watch?v=V9zHy3jgKkI
+
+[![Confira a demonstração do sistema no YouTube](https://img.youtube.com/vi/pA7HNMKsCgE/0.jpg)](https://www.youtube.com/watch?v=pA7HNMKsCgE)
+
+---
 
 O AlertaE é uma aplicação de linha de comando desenvolvida em C#, voltada para o registro, acompanhamento, atualização e análise de incidentes relacionados a falhas de energia. O sistema é modularizado em camadas que se comunicam entre si, organizando responsabilidades de forma clara e objetiva.
 
